@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01bb9619-1753-400c-b28d-11f4bed2b59c",
+    "name": "Aryan Dwivedi",
+    "gender": "male",
+    "age": 24,
+    "email": "hi@aryan.com"
+  },
+  {
+    "id": "a7f93eef-b227-4dbd-803b-6cb39d6a6594",
+    "name": "Elon Musk",
+    "gender": "male",
+    "age": 60,
+    "email": "elon@tesla.com"
+  },
+  {
+    "id": "17066c7e-055a-466b-8f75-4aa45f8ff8eb",
+    "name": "Giga hadid",
+    "gender": "female",
+    "age": 30,
+    "email": "giga@hadid.com"
+  },
+  {
+    "id": "5abd59c6-6e0f-4814-83d3-70a435a38661",
+    "name": "Bella hadid",
+    "gender": "female",
+    "age": 35,
+    "email": "bella@hadid.com"
+  },
+  {
+    "id": "0808082c-dda9-40cb-863d-29f6619211ff",
+    "name": "Jagdish Kharband",
+    "gender": "male",
+    "age": 23,
+    "email": "test@test.com"
+  }
+]
