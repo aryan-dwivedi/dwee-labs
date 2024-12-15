@@ -27,5 +27,5 @@
 2. Navigate to the frontend directory: `cd frontend`
 3. Install the required dependencies: `yarn install`
 4. Create a new file named `.env` and add the following environment variables:
-   ```AUTH_KEY="keyless"```
+   ```REACT_APP_AUTH_KEY="keyless"```
 5. Build the backend server: `yarn build`
